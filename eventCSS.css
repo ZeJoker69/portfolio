@@ -10,9 +10,8 @@ table{
 td{
   padding: 0px 30px;
 }
-p{
 
-}
+
 .w1{
   background-image: -webkit-linear-gradient(top, #d41111, #9e1111);
   background-image: -moz-linear-gradient(top, #d41111, #9e1111);
@@ -24,7 +23,7 @@ p{
   border-radius: 30px;
   font-family: 'Times new Roman', sans-serif;
   color: #ffffff;
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-decoration: none;
   margin: auto;
   width: 95%;
@@ -41,7 +40,7 @@ p{
   border-radius: 30px;
   font-family: 'Times new Roman', sans-serif;
   color: #ffffff;
-  font-size: 2.5rem;
+  font-size: 1.8rem;
   text-decoration: none;
   margin: auto;
   width: 95%;
@@ -58,7 +57,7 @@ p{
   font-size: 1.4rem;
 }
 .W1{
-  font-size: 3rem;
+  font-size: 3.4rem;
 }
 .W2{
   background: none;
@@ -170,7 +169,7 @@ p{
   border-radius: 8px;
   font-family: 'Times new Roman', sans-serif;
   color: #ffffff;
-  font-size: 4rem;
+  font-size: 3.6rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   margin: 10px 0px;
@@ -187,7 +186,7 @@ p{
   border-radius: 20px;
   font-family: 'Times new Roman', sans-serif;
   color: #ffffff;
-  font-size: 2.2rem;
+  font-size: 2rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
@@ -232,7 +231,7 @@ p{
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 2rem;
+  font-size: 1rem;
   font-family: cursive;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
@@ -255,7 +254,7 @@ p{
   background-image: linear-gradient(to bottom, #d41111, #9e1111);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   border-radius: 30px;
 }
 .contact{

@@ -2,13 +2,12 @@ body{
   background: black;
   color: white;
   text-align: center;
-
 }
 table{
-  text-align: ;
   margin: auto;
 }
 td{padding: 0px 5px;}
+
 h3{
   background-image: -webkit-linear-gradient(top, #d41111, #9e1111);
   background-image: -moz-linear-gradient(top, #d41111, #9e1111);
@@ -134,7 +133,7 @@ p{
   text-align: center;
 }
 .W3{
-  font-size: 5rem;
+  font-size: 4rem;
   font-family: cursive;
   text-align: left;
 }
@@ -260,7 +259,7 @@ p{
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 2rem;
+  font-size: 1rem;
   font-family: cursive;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
@@ -283,7 +282,7 @@ p{
   background-image: linear-gradient(to bottom, #d41111, #9e1111);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   border-radius: 30px;
 }
 .contact{
