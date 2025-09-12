@@ -33,6 +33,11 @@ p{
 .left{
   text-align: left;
 }
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+}
 .left1{
   text-align: left;
   font-family: cursive;

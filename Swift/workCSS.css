@@ -20,6 +20,12 @@ p{
   font-family: "Montserrat", sans-serif;
 }
 
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+}
+
 .n{
   position: relative;
   bottom: 20px

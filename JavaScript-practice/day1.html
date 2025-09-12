@@ -1,0 +1,100 @@
+<html>
+    <head>
+        <title>JS Day 1</title>
+    </head>
+    <body>
+        <h1>Javascript Lesson</h1>
+        <h1 id="'title"> Schlong</h1>
+        <button id="btn">Click Mew</button>
+
+        <script>
+            let myName = 'Chukwuka';
+            let myAge = 25;
+            let isLearningJS = true;
+
+            console.log('My name is '+ myName);
+            console.log('I Am '+ myAge);
+            console.log('Am i Learning JS? '+ isLearningJS);
+
+            let x = 15;
+            let y = 4;
+
+            console.log(x+y);
+            console.log(x-y);
+            console.log(x*y);
+            console.log(x/y);
+            console.log(x%y);
+
+            let g = 5;
+            g += 2;
+            console.log(g);
+
+            let greeting = 'Good Morning';
+            console.log(greeting)
+
+            let firstN = 'Chukwuka';
+            let lastN = 'Agunwa';
+            let fullN = firstN + ' ' + lastN;
+            console.log('My name is '+ fullN);
+
+            text = firstN;
+            console.log(text.length);
+            console.log(text.toUpperCase());
+            console.log(text.toLowerCase());
+            console.log(text[0]);
+
+            let temp = 'egg';
+            if (temp > 35) {
+                console.log('Hot Day!');
+            }
+            else if (20 < temp < 35){
+                console.log('Normal Day');
+            }
+            else{
+                console.log('Cold Days');
+            }
+
+            for (let i = 1; i <=7; i++){
+                console.log('Number: '+ i);
+            }
+
+            for (let r = 1; r <=20; r++){
+                if (r == 10) break;
+                console.log('Number: '+ r);
+            }
+
+            let j = 10;
+            while (j >= 1 ){
+                if (j == 1) break;
+                console.log('j is '+ j);
+                j--;
+            }
+
+            for (let r = 1; r <=20; r++){
+                if (r%2 == 0){
+                    console.log('Number: '+ r);
+                    if (r == 20) break;
+                };
+            }
+            
+            function multiply(a, b){
+                return a * b;
+            }
+
+            multiply(5, 3)
+
+            let food = ['egg', 'banana', 'apple'];
+            console.log(food[0]);
+            console.log(food[food.length-1]);
+            console.log(food.length);
+
+            let title = document.getElementById('title');
+            let button = document.getElementById('btn');
+
+            button.addEventListener('click',
+            function(){
+                title.innerHTML = 'You clicked the button'
+            })
+        </script>
+    </body>
+</html>

@@ -30,7 +30,11 @@ h3{
   width: 90%;
   padding: 20px;
 }
-
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+}
 .service1{
   text-align: left;
   margin: auto;

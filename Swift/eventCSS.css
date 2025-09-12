@@ -11,7 +11,11 @@ td{
   padding: 0px 30px;
 }
 
-
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+}
 .w1{
   background-image: -webkit-linear-gradient(top, #d41111, #9e1111);
   background-image: -moz-linear-gradient(top, #d41111, #9e1111);

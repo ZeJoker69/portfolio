@@ -252,14 +252,8 @@ p{
   top: 80px;
 }
 
-
-
-
-
-
-
-
-
-
-
-.
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+}

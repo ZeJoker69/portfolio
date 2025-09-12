@@ -5,7 +5,6 @@ body{
   font-family: 'Merriweather', serif;
 }
 table{
-  text-align: ;
   margin: auto;
 }
 td{padding: 0px 30px;}
@@ -21,6 +20,11 @@ h3{
   border-radius: 30px;
 }
  
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+}
 .t1{
   text-align: right;
 }

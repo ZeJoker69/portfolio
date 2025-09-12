@@ -27,7 +27,11 @@ p{
 .t1{
   text-align: right;
 }
-
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+}
 .left{
   text-align: left;
 }

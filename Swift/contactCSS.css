@@ -18,10 +18,12 @@ p{
   font-family: "Montserrat", sans-serif;
 }
 
-.paint{
-  
-}
 
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+}
 .paint:hover{
   padding-bottom: 15px;
   background-color: gold;

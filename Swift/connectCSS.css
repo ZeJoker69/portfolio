@@ -10,9 +10,6 @@ table{
 td{
   padding: 0px 30px;
 }
-p{
-
-}
 .w1{
   background-image: -webkit-linear-gradient(top, #d41111, #9e1111);
   background-image: -moz-linear-gradient(top, #d41111, #9e1111);
@@ -29,6 +26,11 @@ p{
   margin: auto;
   width: 95%;
   text-align: left;
+}
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
 }
 .w2{
   background-image: -webkit-linear-gradient(top, #d41111, #9e1111);

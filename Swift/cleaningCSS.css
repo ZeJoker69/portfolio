@@ -20,7 +20,11 @@ h3{
   border-radius: 30px;
 }
 
-
+.clock{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+}
 .t1{
   text-align: right;
 }
